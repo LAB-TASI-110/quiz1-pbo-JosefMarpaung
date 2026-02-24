@@ -1,0 +1,62 @@
+bantu saya membuat logika codingan bahasa java 
+
+tugas saya adalah membuat program yang mampu menentukan  total nilai hanya untuk kelompok yang diminta.
+
+input yang diminta adalah
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+
+kode kelompok yang saya mau adalah ASPA untuk nama laki laki dan ASPI untuk nama perempuan
+
+program inihanya mampu menentukan total nilai hanya untuk kelompok yang diminta
+
+apa compilernya
+
+PS C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung> javac Driver2.java
+error: file not found: Driver2.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung> javac TotalNilaiKelompok.java\
+error: invalid flag: TotalNilaiKelompok.java\
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung> javac TotalNilaiKelompok.java
+error: file not found: TotalNilaiKelompok.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+PS C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung> 
+
+saya mengalami error ini
+
+file ini ada di file src yang di dalamnya terdapat driver dan di letak di Driver2.java
+
+saya mengcompile di JavaScript debug terminal
+
+Microsoft Windows [Version 10.0.26100.7840]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung> cd C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung\src
+
+C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung\src>javac Driver2.java
+error: file not found: Driver2.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung\src>
+
+masih error
+
+C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung\src>dir
+ Volume in drive C is OS
+ Volume Serial Number is 807D-FA51
+
+ Directory of C:\Users\ASUS\OneDrive\Documents\GitHub\quiz1-pbo-JosefMarpaung\src
+
+02/24/2026  08:17 AM    <DIR>          .
+02/24/2026  08:16 AM    <DIR>          ..
+02/24/2026  08:17 AM    <DIR>          driver
+02/24/2026  08:17 AM    <DIR>          model
+               0 File(s)              0 bytes
+               4 Dir(s)  19,971,100,672 bytes free
+
