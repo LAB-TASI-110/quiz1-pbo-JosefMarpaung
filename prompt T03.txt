@@ -1,0 +1,19 @@
+saya mau membuat sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del berdasarkan requirement saya
+
+saya hanya butuh fitur:
+data diri customer
+jenis pakaian yang dilaundry
+berapa berat pakaian
+keluhan jika ada kesalahan selama proses
+
+saya butuh logika dan codingan dalam bahasa java\
+
+bagaimana ouputnya
+
+fitur keluhan yang saya maksud adaah opsional jika customer mengalami saja, jika tidak mengalami maka tidak perlu mengisi
+
+saya mau tambahan 1 fitur lagi berupa fitur kepuasaan yang bisa di rate : 1-5 ; dimana 1 dimulai dari tidak sangat puas
+
+sekarang berikan code finalnya
+
+upgrade ke versi yang lebih “standar nilai A” dan beri lebih ringkas namun mencakup semua
