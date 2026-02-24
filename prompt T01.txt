@@ -1,0 +1,41 @@
+saya memilki tugas untuk membuat sistem untuk sebuah warung makan
+
+saya hanya butuh codingan dalam bahasa java yang akan di run di vs  code
+
+saya diberikan sebuat studi kasus, kamu bantu saya memberikan logikanya
+berikut studi kasusnya
+Ucok dan Butet mau makan di sebuahb warung makan. Warung makan ini mempunyai sistem yang aman. Berikut menu makanan dan harga yang ada di warung makan
+Nasi Goreng Spesial 15
+Ayam Penyet 20
+Sate Ayam (10 Tusuk) 25
+Bakso Urat 18
+Mie Ayam Pangsit 15
+Gado-Gado 15
+Soto Ayam 17
+Rendang Daging 25
+Ikan Bakar 35
+Nasi Uduk Komplit 20
+
+Lalu saat mau memesan, ternyata ada kupon yang ditawarkan dimana:
+Kupon Biru 5% DISKON
+Kupon Kuning 10% DISKON
+Kupon Merah 15% DISKON
+Kupon Hijau 20% DISKON
+Kupon Hitam 25% DISKON
+
+Kupon ini pemggunaanya belanja 100 ribu dapet kupon biru, kalau 200 ribu dapet kupon kuning.
+Lalu mereka pesan yang banyak biar dapet kupon warna-warni!” Mereka pun memesan makanan dengan porsi yang sesuai dengan perbandingan tubuh mereka.
+ Ucok 100kg Butet 50 KG
+
+yang mau dibuat  Format Inputan berupa Kode menu di lanjut dengan Porsi Butet 
+NGS 
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+
+output tidak menggunakan diskon
+
+berikut tampilan output yang diminta
